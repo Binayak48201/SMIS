@@ -1,0 +1,15 @@
+2018-08-01 01:02:53pm ::1 satishm localhost/smis/pages/home 
+2018-08-01 01:49:33pm ::1 satishm localhost/smis/pages/home 
+2018-08-01 01:51:38pm ::1 satishm localhost/smis/pages/classes/section_manager 
+2018-08-01 01:51:46pm ::1 satishm localhost/smis/pages/home 
+2018-08-01 01:51:50pm ::1 satishm localhost/smis/pages/profile/student/manage 
+2018-08-01 01:51:55pm ::1 satishm localhost/smis/pages/profile/student/manage 
+2018-08-01 01:52:01pm ::1 satishm localhost/smis/pages/profile/student/edit/1215 
+2018-08-01 01:52:08pm ::1 satishm localhost/smis/pages/profile/student/manage 
+2018-08-01 01:52:19pm ::1 satishm localhost/smis/pages/profile/student/manage 
+2018-08-01 01:53:17pm ::1 satishm localhost/smis/pages/profile/student/manage 
+2018-08-01 01:53:21pm ::1 satishm localhost/smis/pages/profile/student/edit/1215 
+2018-08-01 01:53:27pm ::1 satishm localhost/smis/pages/profile/student/manage 
+2018-08-01 01:53:28pm ::1 satishm localhost/smis/pages/profile/student/manage 
+2018-08-01 01:53:33pm ::1 satishm localhost/smis/pages/profile/student/manage 
+2018-08-01 01:53:37pm ::1 satishm localhost/smis/pages/profile/student/edit/1292 

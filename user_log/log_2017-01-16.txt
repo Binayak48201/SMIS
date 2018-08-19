@@ -1,0 +1,13 @@
+2017-01-16 10:57:17am ::1 tirtha localhost/pages/manage_menu 
+2017-01-16 10:58:21am ::1 tirtha localhost/pages/manage_menu 
+2017-01-16 10:58:25am ::1 tirtha localhost/pages/home 
+2017-01-16 11:02:14am ::1 tirtha localhost/pages/home 
+2017-01-16 11:03:41am ::1 tirtha localhost/pages/home 
+2017-01-16 11:08:03am ::1 tirtha localhost/pages/home 
+2017-01-16 11:08:49am ::1 tirtha localhost/pages/home 
+2017-01-16 04:00:03pm ::1 tirtha localhost/pages/home 
+2017-01-16 04:00:11pm ::1 tirtha localhost/pages/change_password/update 
+2017-01-16 04:00:12pm ::1 tirtha localhost/pages/change_password 
+2017-01-16 04:02:31pm ::1 tirtha localhost/pages/manage_menu 
+2017-01-16 04:03:18pm ::1 tirtha localhost/pages/manage_menu/add_menu_list 
+2017-01-16 04:03:19pm ::1 tirtha localhost/pages/manage_menu 

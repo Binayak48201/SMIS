@@ -1,0 +1,6 @@
+2018-02-26 01:26:42pm ::1 satishm localhost/smis/pages/home 
+2018-02-26 01:27:12pm ::1 satishm localhost/smis/pages/profile/student/bulk_edit 
+2018-02-26 01:27:21pm ::1 satishm localhost/smis/pages/profile/student/class_reassign 
+2018-02-26 01:30:54pm ::1 satishm localhost/smis/pages/profile/student/class_reassign 
+2018-02-26 01:31:00pm ::1 satishm localhost/smis/pages/profile/student/class_reassign 
+2018-02-26 01:31:37pm ::1 satishm localhost/smis/pages/profile/student/class_reassign 

@@ -1,0 +1,2 @@
+2018-07-30 12:57:45pm ::1 satishm localhost/smis/pages/home 
+2018-07-30 01:18:36pm ::1 satishm localhost/smis/pages/profile/student/add 

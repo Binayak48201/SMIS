@@ -1,0 +1,2 @@
+2018-02-11 09:33:01am 192.168.1.153 lokeshm 192.168.1.109/smis/pages/home 
+2018-02-11 09:33:41am 192.168.1.153 lokeshm 192.168.1.109/smis/pages/profile/student/add 

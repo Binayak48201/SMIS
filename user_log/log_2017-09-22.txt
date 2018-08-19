@@ -1,0 +1,7 @@
+2017-09-22 03:18:36pm ::1 satishm localhost/smis/pages/home 
+2017-09-22 03:18:41pm ::1 satishm localhost/smis/theme_option/manage_menu 
+2017-09-22 03:18:43pm ::1 satishm localhost/smis/theme_option/manage_menu/edit/188 
+2017-09-22 03:18:50pm ::1 satishm localhost/smis/theme_option/manage_menu/update_menu/188 
+2017-09-22 03:18:51pm ::1 satishm localhost/smis/theme_option/manage_menu/edit/188 
+2017-09-22 03:18:55pm ::1 satishm localhost/smis/pages/home 
+2017-09-22 04:26:45pm ::1 satishm localhost/smis/pages/home 

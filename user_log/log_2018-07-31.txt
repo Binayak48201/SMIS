@@ -1,0 +1,9 @@
+2018-07-31 03:22:56pm ::1 satishm localhost/smis/pages/home 
+2018-07-31 03:23:00pm ::1 satishm localhost/smis/theme_option/site_info 
+2018-07-31 03:23:03pm ::1 satishm localhost/smis/pages/home 
+2018-07-31 03:23:04pm ::1 satishm localhost/smis/theme_option/site_info 
+2018-07-31 03:24:50pm ::1 satishm localhost/smis/pages/home 
+2018-07-31 03:36:36pm ::1 satishm localhost/smis/pages/profile/student/add 
+2018-07-31 03:45:59pm ::1 satishm localhost/smis/pages/home 
+2018-07-31 03:46:00pm ::1 satishm localhost/smis/pages/profile/student/add 
+2018-07-31 03:47:09pm ::1 satishm localhost/smis/pages/home 

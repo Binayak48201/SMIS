@@ -1,0 +1,16 @@
+2017-11-05 11:32:42am ::1 satishm localhost/smis/pages/home 
+2017-11-05 11:32:47am ::1 satishm localhost/smis/pages/profile/student/add 
+2017-11-05 11:34:56am ::1 satishm localhost/smis/pages/profile/student/add 
+2017-11-05 11:35:07am ::1 satishm localhost/smis/pages/profile/student/add 
+2017-11-05 11:40:04am ::1 satishm localhost/smis/pages/profile/student/add 
+2017-11-05 11:42:26am ::1 satishm localhost/smis/pages/classes/grade_manager 
+2017-11-05 11:43:34am ::1 satishm localhost/smis/pages/classes/section_manager 
+2017-11-05 11:44:14am ::1 satishm localhost/smis/pages/profile/student/add 
+2017-11-05 11:47:07am ::1 satishm localhost/smis/pages/classes/section_manager 
+2017-11-05 11:48:26am ::1 satishm localhost/smis/pages/profile/student/add 
+2017-11-05 11:49:53am ::1 satishm localhost/smis/pages/profile/student/add 
+2017-11-05 11:50:18am ::1 satishm localhost/smis/pages/profile/student/add 
+2017-11-05 11:52:51am ::1 satishm localhost/smis/pages/profile/student/add 
+2017-11-05 11:53:03am ::1 satishm localhost/smis/pages/profile/student/add 
+2017-11-05 11:54:07am ::1 satishm localhost/smis/pages/profile/student/add 
+2017-11-05 11:56:03am ::1 satishm localhost/smis/pages/profile/student/add 

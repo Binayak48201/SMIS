@@ -1,0 +1,11 @@
+2018-05-02 09:10:05am ::1 satishm localhost/smis/pages/home 
+2018-05-02 09:10:08am ::1 satishm localhost/smis/pages/home 
+2018-05-02 11:32:04am 192.168.1.109 satis 192.168.1.109/smis/pages/home 
+2018-05-02 11:32:04am 192.168.1.109 satis 192.168.1.109/smis/pages/home 
+2018-05-02 11:32:16am 192.168.1.109 satishm 192.168.1.109/smis/pages/home 
+2018-05-02 11:32:23am 192.168.1.109 satishm 192.168.1.109/smis/pages/reports/academic_report/exam_summary_report 
+2018-05-02 11:32:30am 192.168.1.109 satishm 192.168.1.109/smis/pages/reports/academic_report/view_terminal_total 
+2018-05-02 11:32:30am 192.168.1.109 satishm 192.168.1.109/smis/pages/reports/academic_report/view_terminal_total 
+2018-05-02 11:32:54am 192.168.1.109 satishm 192.168.1.109/smis/pages/profile/student/details/1218 
+2018-05-02 11:32:54am 192.168.1.109 satishm 192.168.1.109/smis/pages/profile/student/details/1218 
+2018-05-02 12:29:43pm 202.166.196.99 stewart 202.52.248.105/smis/pages/home 

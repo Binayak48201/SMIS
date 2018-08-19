@@ -1,0 +1,13 @@
+2018-07-19 03:01:32pm ::1 satishm localhost/smis/pages/home 
+2018-07-19 03:01:42pm ::1 satishm localhost/smis/pages/home 
+2018-07-19 03:02:58pm ::1 satishm localhost/smis/pages/home 
+2018-07-19 03:03:35pm ::1 satishm localhost/smis/pages/home 
+2018-07-19 03:03:38pm ::1 satishm localhost/smis/pages/home 
+2018-07-19 03:03:42pm ::1 satishm localhost/smis/pages/home 
+2018-07-19 03:03:42pm ::1 satishm localhost/smis/pages/home 
+2018-07-19 03:03:44pm ::1 satishm localhost/smis/pages/home 
+2018-07-19 03:03:47pm ::1 satishm localhost/smis/pages/home 
+2018-07-19 03:03:48pm ::1 satishm localhost/smis/pages/home 
+2018-07-19 03:03:51pm ::1 satishm localhost/smis/pages/home 
+2018-07-19 03:04:06pm ::1 satishm localhost/smis/pages/home 
+2018-07-19 03:04:10pm ::1 satishm localhost/smis/pages/home 

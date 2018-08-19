@@ -1,0 +1,11 @@
+2017-12-20 09:45:01am ::1 satishm localhost/smis/pages/home 
+2017-12-20 09:45:15am ::1 satishm localhost/smis/pages/classes/lession_plan/migrate 
+2017-12-20 09:54:02am ::1 satishm localhost/smis/pages/classes/subject_manager 
+2017-12-20 09:54:32am ::1 satishm localhost/smis/pages/classes/lession_plan/migrate 
+2017-12-20 09:58:30am ::1 satishm localhost/smis/pages/classes/subject_manager/migrate 
+2017-12-20 10:00:02am ::1 satishm localhost/smis/pages/classes/lession_plan/migrate 
+2017-12-20 10:00:06am ::1 satishm localhost/smis/pages/classes/subject_manager/migrate 
+2017-12-20 10:01:05am ::1 satishm localhost/smis/pages/classes/subject_manager/migrate 
+2017-12-20 10:03:12am ::1 satishm localhost/smis/pages/classes/subject_manager/migrate 
+2017-12-20 10:05:57am ::1 satishm localhost/smis/pages/classes/subject_manager/migrate 
+2017-12-20 10:13:50am ::1 satishm localhost/smis/pages/classes/subject_manager 

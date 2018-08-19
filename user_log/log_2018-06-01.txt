@@ -1,0 +1,11 @@
+2018-06-01 12:08:11pm ::1 satishm localhost/smis/pages/home 
+2018-06-01 12:09:08pm ::1 atish localhost/smis/pages/home 
+2018-06-01 12:09:13pm ::1 atish localhost/smis/pages/exam/marks_entry/add/1388 
+2018-06-01 12:09:24pm ::1 atish localhost/smis/pages/classes/section_manager/list_student/58 
+2018-06-01 12:09:30pm ::1 atish localhost/smis/pages/classes/appraisal_manager/appraisal_evaluation_option/58 
+2018-06-01 12:44:17pm ::1 atish localhost/smis/pages/home 
+2018-06-01 12:44:24pm ::1 atish localhost/smis/pages/profile/evaluation/list_student/1416 
+2018-06-01 12:44:33pm ::1 atish localhost/smis/pages/profile/evaluation/sub_evaluation/1416 
+2018-06-01 02:19:36pm ::1 atish localhost/smis/pages/home 
+2018-06-01 02:19:41pm ::1 satishm localhost/smis/pages/home 
+2018-06-01 02:20:07pm ::1 satishm localhost/smis/pages/classes/course_manager 

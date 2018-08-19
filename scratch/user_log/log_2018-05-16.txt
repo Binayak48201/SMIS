@@ -1,0 +1,10 @@
+2018-05-16 12:44:08pm ::1 satishm localhost/scratch/pages/home 
+2018-05-16 12:44:13pm ::1 satishm localhost/scratch/pages/profile/student/manage 
+2018-05-16 12:44:22pm ::1 satishm localhost/scratch/pages/profile/student/manage 
+2018-05-16 12:44:32pm ::1 satishm localhost/scratch/pages/home 
+2018-05-16 12:45:35pm ::1 satishm localhost/scratch/pages/reports/class_reports/gender_distribution 
+2018-05-16 02:33:42pm ::1 satishm localhost/scratch/pages/general_content/transportation 
+2018-05-16 02:34:37pm ::1 satishm localhost/scratch/pages/reports/class_reports/gender_distribution 
+2018-05-16 02:34:41pm ::1 satishm localhost/scratch/pages/home 
+2018-05-16 02:34:45pm ::1 satishm localhost/scratch/theme_option/site_info 
+2018-05-16 02:47:15pm ::1 satishm localhost/scratch/theme_option/site_info 

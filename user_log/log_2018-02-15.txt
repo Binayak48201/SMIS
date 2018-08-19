@@ -1,0 +1,9 @@
+2018-02-15 04:00:19pm 192.168.1.138 lokeshm 192.168.1.109/smis/pages/home 
+2018-02-15 04:01:04pm 192.168.1.138 lokeshm 192.168.1.109/smis/pages/profile/student/manage 
+2018-02-15 04:01:09pm 192.168.1.138 lokeshm 192.168.1.109/smis/pages/profile/student/manage 
+2018-02-15 04:07:52pm 192.168.1.109 satis 192.168.1.109/smis/pages/home 
+2018-02-15 04:08:34pm 192.168.1.109 satis 192.168.1.109/smis/pages/classes/section_manager/list_student/8 
+2018-02-15 04:08:50pm 192.168.1.109 satis 192.168.1.109/smis/pages/profile/evaluation/add_evaluation 
+2018-02-15 04:20:31pm 192.168.1.138 lokeshm 192.168.1.109/smis/pages/profile/student/edit/1279 
+2018-02-15 04:31:48pm 192.168.1.109 satis 192.168.1.109/smis/pages/home 
+2018-02-15 04:31:49pm 192.168.1.109 satis 192.168.1.109/smis/pages/classes/section_manager/list_student/8 

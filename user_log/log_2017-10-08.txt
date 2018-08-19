@@ -1,0 +1,5 @@
+2017-10-08 10:58:38am ::1 satishm localhost/smis/pages/home 
+2017-10-08 11:45:04am 192.168.1.138 lokeshm 192.168.1.109/smis/pages/home 
+2017-10-08 11:45:18am 192.168.1.138 lokeshm 192.168.1.109/smis/pages/general_content/district 
+2017-10-08 11:45:38am 192.168.1.138 lokeshm 192.168.1.109/smis/pages/general_content/district/update 
+2017-10-08 11:45:38am 192.168.1.138 lokeshm 192.168.1.109/smis/pages/general_content/district 

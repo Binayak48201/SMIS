@@ -1,0 +1,10 @@
+2018-01-26 09:47:36am 192.168.1.153 lokeshm 192.168.1.109/smis/pages/home 
+2018-01-26 09:47:45am 192.168.1.153 lokeshm 192.168.1.109/smis/pages/home 
+2018-01-26 09:47:50am 192.168.1.153 lokeshm 192.168.1.109/smis/pages/home 
+2018-01-26 09:47:56am 192.168.1.153 lokeshm 192.168.1.109/smis/pages/classes/grade_manager 
+2018-01-26 09:48:02am 192.168.1.153 lokeshm 192.168.1.109/smis/pages/profile/student/add 
+2018-01-26 09:55:16am 192.168.1.153 lokeshm 192.168.1.109/smis/pages/home 
+2018-01-26 09:55:59am 192.168.1.153 lokeshm 192.168.1.109/smis/pages/profile/student/add 
+2018-01-26 09:56:25am 192.168.1.153 lokeshm 192.168.1.109/smis/pages/profile/student/manage 
+2018-01-26 09:59:00am 192.168.1.153 lokeshm 192.168.1.109/smis/pages/home 
+2018-01-26 09:59:10am 192.168.1.153 lokeshm 192.168.1.109/smis/pages/profile/student/add 

@@ -1,0 +1,8 @@
+2018-06-13 04:55:10pm ::1 satishm localhost/smis/pages/home 
+2018-06-13 04:56:17pm ::1 satishm localhost/smis/pages/profile/student/find 
+2018-06-13 04:56:23pm ::1 satishm localhost/smis/pages/home 
+2018-06-13 04:58:55pm ::1 satishm localhost/smis/pages/profile/student/find 
+2018-06-13 04:59:25pm ::1 satishm localhost/smis/pages/home 
+2018-06-13 04:59:51pm ::1 satishm localhost/smis/pages/home 
+2018-06-13 05:00:09pm ::1 subas localhost/smis/pages/home 
+2018-06-13 05:00:09pm ::1 subas localhost/smis/pages/home 

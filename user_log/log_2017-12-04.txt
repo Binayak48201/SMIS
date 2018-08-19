@@ -1,0 +1,5 @@
+2017-12-04 02:56:51pm ::1 satishm localhost/smis/pages/home 
+2017-12-04 03:01:55pm ::1 satishm localhost/smis/pages/classes/lession_plan 
+2017-12-04 03:03:49pm ::1 satishm localhost/smis/pages/home 
+2017-12-04 03:03:52pm ::1 satishm localhost/smis/pages/exam/marks_entry 
+2017-12-04 03:39:50pm ::1 satishm localhost/smis/pages/exam/marks_entry 
